@@ -1,5 +1,3 @@
-# GIT Training
+# GIT Homework
 
-Hello People !
-commit1
-commit2
+Hello Pentalog!
